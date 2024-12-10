@@ -27,4 +27,4 @@ Portfolio of Some Coding Projects
 | 23   | weekTen/.idea               | [weekTen/.idea](https://github.com/Portfolio/weekTen/.idea)                                                         | Week Ten CS121 over Abstract Classes and Interfaces |
 | 24   | weekThirteen                | [weekThirteen](https://github.com/Portfolio/weekThirteen)                                                           | Week Thirteen CS121 over Stacks Queues Iterators etc|
 | 25   | weekThree                   | [weekThree](https://github.com/Portfolio/weekThree)                                                                 | Week Three CS121 over Conditionals and Data Types   |
-| 3   | weekTwo                     | [weekTwo](https://github.com/Portfolio/weekTwo)                                           | Week Two CS121 over Variables and Basics            |
+| 26   | weekTwo                     | [weekTwo](https://github.com/Portfolio/weekTwo)                                           | Week Two CS121 over Variables and Basics            |
