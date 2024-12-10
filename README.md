@@ -2,7 +2,7 @@ Portfolio of Some Coding Projects
 
 | #   | File Name                   | Link                                                                                                      | Description                                         |
 |-----|-----------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| 1   | ArraryListDemo              | [[ArrayListDemo](https://github.com/Portfolio/src/ArrayListDemo)](https://github.com/DJCoggs05/Portfolio/tree/master/src/ArrayListDemo)                               | Demo of Array Lists                                 |
+| 1   | ArraryListDemo              | [[ArrayListDemo][(https://github.com/Portfolio/src/ArrayListDemo)]]                               | Demo of Array Lists                                 |
 | 2   | AuthorGuide                 | [AuthorGuide](https://github.com/Portfolio/src/AuthorGuide)                                   | Guide Program for book Authors                      |
 | 3   | BankAcctSet                 | [BankAcctSet](https://github.com/Portfolio/src/BankAcctSet)                                   | Bank Account testing program                        |
 | 4   | BankProject                 | [BankProject](https://github.com/Portfolio/src/BankProject)                                   | Full Bank Account Project                           |
