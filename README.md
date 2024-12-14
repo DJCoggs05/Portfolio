@@ -1,5 +1,6 @@
 Portfolio of Some Coding Projects
 
+|------------|----------------------------------------------|
 | LinkedIn : | https://www.linkedin.com/in/dakota-coughlin/ |
 
 | #   | File Name                   | Link                                                                                                                | Description                                         |
