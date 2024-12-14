@@ -1,5 +1,7 @@
 Portfolio of Some Coding Projects
 
+| LinkedIn : | https://www.linkedin.com/in/dakota-coughlin/ |
+
 | #   | File Name                   | Link                                                                                                                | Description                                         |
 |-----|-----------------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | 1   | ArraryListDemo              | [ArrayListDemo](https://github.com/DJCoggs05/Portfolio/tree/master/src/ArrayListDemo)                               | Demo of Array Lists                                 |
